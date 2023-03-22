@@ -1,4 +1,12 @@
 
 target/streams/test/managedClasspath/_global/streams/export
 
-project/target/.DS_Store
+project/target/
+target/
+.idea/
+
+project/target/streams/runtime/exportedProducts/_global/streams/export
+
+.DS_Store
+
+.bsp/
